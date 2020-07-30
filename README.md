@@ -14,3 +14,26 @@
 <h5>graph</h5>
 
 ![alt text](copy1.png)
+
+/* 
+ * PHP WEBSHELL
+ *
+ * Features:
+ *		[0] &#9733; info #基础信息
+ *		[1] &frac12; Sec # disable_functions 速查
+ *		[2] PHPinfo
+ *		[3] &#9822; file #文件管理
+ *		[4] edit #编辑文件
+ *		[5] PHP
+ *		[6] exec # CMD 命令执行终端
+ *		[7] eval
+ *		[8] Mysql
+ *		[9] nc -lvp #Nc 转发
+ *		[10] Kill Ps #依据PID或进程名称结束进程
+ *		[11] UpFile #写入文件
+ *		[12] UpFile2 #上传文件
+ *		[13] Logout #退出登录
+ *
+ * Account:
+ *		[Password] admin
+ */
