@@ -12,4 +12,4 @@
 
 
 <h5>graph</h5>
-![alt text](copy1.png)
+![alt text](copy1.jpg)
